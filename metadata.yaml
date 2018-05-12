@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39546
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Dumur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38581#Nach-Paris
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2012-01-15'
 gutenberg_type: Text
